@@ -7,8 +7,8 @@
     {
       "type": "chrome",
       "request": "launch",
-      "name": "Open text.html",
-      "file": "f:\\Frontend Development\\HTML & CSS Practice\\text.html"
+      "name": "Open ButtonsPractice.html",
+      "file": "f:\\Frontend Development\\HTML & CSS Practice\\ButtonsPractice.html"
     }
   ]
 }
