@@ -1,14 +1,3 @@
-
-p{
-  font-family: Roboto, Arial;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-.serach-box {
-  display: block;
-
-}
-
 .thumbnail-pic {
   width: 100%;
 
@@ -59,10 +48,3 @@ p{
   column-gap: 16px;
   row-gap: 40px;
 }
-
-
-
-
-
-
-
